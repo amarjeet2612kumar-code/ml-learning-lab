@@ -1,6 +1,7 @@
-name,study_hours,attendance,marks
-Amit,2,70,60
-Priya,4,80,75
-Rahul,6,90,90
-Neha,3,75,65
-Vikram,5,85,80
+name,age,study_hours,attendance,marks
+Amar,25,5,90,85
+Rahul,27,3,75,65
+Priya,24,7,95,92
+Ankit,26,4,80,70
+Neha,25,8,88,96
+Ravi,28,6,85,82
